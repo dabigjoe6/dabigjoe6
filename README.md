@@ -1,12 +1,14 @@
-### Hello,
+### Hello there,
 
-Systems Engineering Undergrad.
+Systems Engineering Undergrad with a passion for Software Engineering. 
 
-Interested in Mobile development, Distributed Systems, Algorithms and Building Large Scale Software.
+Actively engaged in fullstack devlopment with React, Nodejs and React Native.
 
-Javascript, Python. PHP Sometimes.
+Currently learning Web3 and solidity in building smart contracts and Defi apps.  
 
-Majorly working with react native.
+Interested in Distributed Systems, Building Large Scale Software.
+
+
 
 <!--
 **dabigjoe6/dabigjoe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
