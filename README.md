@@ -2,9 +2,9 @@
 
 Systems Engineering Undergrad with a passion for Software Engineering. 
 
-Actively engaged in fullstack devlopment with React, Nodejs and React Native.
+Actively engaged in fullstack development with React, Nodejs and React Native.
 
-Currently learning Web3 and solidity in building smart contracts and Defi apps.  
+Currently learning Web3 and solidity in building smart contracts and DeFi apps.  
 
 Interested in Distributed Systems, Building Large Scale Software.
 
