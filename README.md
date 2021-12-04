@@ -1,14 +1,12 @@
 ### Hello there,
 
-I'm a Systems Engineering Undergrad with a passion for Software Engineering. 
+I'm a recent Systems Engineering graduate with a passion for Software Engineering. 
 
 I actively engage in fullstack development with React, Nodejs and React Native.
 
-I'm currently learning Web3 and solidity in building smart contracts and DeFi apps.  
+I'm currently learning blockchain development.
 
-I enjoy building interactive motion animation on the Web with GSAP in my free time. 
-
-I'm also interested in Distributed Systems, Building Large Scale Software.
+I enjoy building interactive motion animation on the Web with GSAP in my free time.
 
 Sometimes I write technical articles on https://josepholabisi.medium.com 
 
