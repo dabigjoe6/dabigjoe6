@@ -4,8 +4,6 @@ I'm a recent Systems Engineering graduate with a passion for Software Engineerin
 
 I actively engage in fullstack development with React, Nodejs and React Native.
 
-I'm currently learning blockchain development.
-
 I enjoy building interactive motion animation on the Web with GSAP in my free time.
 
 Sometimes I write technical articles on https://josepholabisi.medium.com 
