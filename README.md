@@ -1,4 +1,4 @@
-### Aspiring UX Engineer: Optimizing User Experience at every layer of abstraction
+### UX Engineer: Optimizing User Experience at every layer of abstraction
 
 My passion for User experience stems from my love for optimization, optimizing existing systems and building new systems. My journey in software engineering is marked by a relentless pursuit of enhancing both performance and user satisfaction, regardless of the system layer. From the tangible user-interface down to the unseen backend-end services and infrastructure. 
 
