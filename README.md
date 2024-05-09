@@ -18,7 +18,7 @@ I also enjoy implementing challenging user interfaces and bringing them to reali
 ##### Infra & Others
 - Docker, Kubernetes, Python, C++
 
-I currently work as a Software Engineer at [Goldman Sachs](https://www.goldmansachs.com/), outside of work I am working on the following side-projects - [Synthesis](https://synthesisapp.com/), [Tinkr.ai](http://www.tnkr.ai/)
+I currently work as a Software Engineer at [Goldman Sachs](https://www.goldmansachs.com/), outside of work I am working on the following side-projects - [Synthesis](https://synthesisapp.com/), [Tnkr.ai](http://www.tnkr.ai/)
 
 I recently discovered a love for Graphics/Game engines, and I am slowly building this skillset in my free time.
 I seldom write at https://medium.com/@josepholabisi
