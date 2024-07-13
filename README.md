@@ -8,7 +8,7 @@ I have experience working on a robust UI component library and the Intranet of a
 ##### Backend
 - Typescript, ExpressJS, Spring, Java
 ##### Infra & Others
-- Docker, Kubernetes, Python, C++
+- Kubernetes, Python, C++
 
 I currently work as a Software Engineer at [Goldman Sachs](https://www.goldmansachs.com/), outside of work I am working on the following side-projects - [Tnkr.ai](http://www.tnkr.ai/), [Synthesis](https://synthesisapp.com/)
 
