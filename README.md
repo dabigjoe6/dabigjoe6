@@ -1,5 +1,6 @@
-I am passionate about programming and optimizations.
+Mid fullstack developer passionate about computers, programming and optimizations. Currently focused on learning low-latency and systems programming with c++ in my free time.
 
+#### Experience
 I have experience working on a robust UI component library. I am currently part of a team that owns the Intranet of a [Fortune 100](https://fortune.com/ranking/fortune500/). I have built and worked on dev-tools, a low-code tool for technical and non-technical end-users and a number of mobile and web applications.
 
 #### My current proficiency and software stack includes
@@ -12,5 +13,4 @@ I have experience working on a robust UI component library. I am currently part 
 
 I currently work as a Software Engineer at [Goldman Sachs](https://www.goldmansachs.com/), in the past I have worked on these side projects - [Tnkr.ai](http://www.tnkr.ai/), [Synthesis](https://synthesisapp.com/)
 
-Currently learning more about low-latency programming using c++ and building this skillset in my free time.
 I rarely write at https://medium.com/@josepholabisi
