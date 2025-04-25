@@ -1,7 +1,10 @@
-Mid fullstack developer passionate about computers, programming and optimizations. Currently focused on learning low-latency and systems programming with c++ in my free time.
+Passionate about systems programming and performance optimization. Actively learning low-latency systems development with C/C++.
 
-#### Experience
-I have experience working on a robust UI component library and full-stack systems. I am currently part of a team that owns the Intranet of a [Fortune 100](https://fortune.com/ranking/fortune500/). I have built and worked on dev-tools, a low-code tool for technical and non-technical end-users and a number of mobile and web applications.
+**Professional Experience** (3+ years)
+- Developed enterprise UI component library
+- Built fullstack services and developer tools
+- Designed low-code data visualization platform
+- Maintained corporate intranet infrastructure
 
 #### My current proficiency and software stack includes
 ##### Frontend 
